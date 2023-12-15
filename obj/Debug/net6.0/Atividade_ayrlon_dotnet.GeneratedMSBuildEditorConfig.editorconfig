@@ -1,0 +1,264 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Atividade_ayrlon_dotnet
+build_property.RootNamespace = Atividade_ayrlon_dotnet
+build_property.ProjectDir = C:\Users\slime\OneDrive\Área de Trabalho\Atividade_ayrlon_dotnet\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\slime\OneDrive\Área de Trabalho\Atividade_ayrlon_dotnet
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Itens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Itens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Itens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Itens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Itens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Marcas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Marcas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Marcas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Marcas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Marcas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/NotaDeVendas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YURlVmVuZGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/NotaDeVendas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YURlVmVuZGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/NotaDeVendas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YURlVmVuZGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/NotaDeVendas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YURlVmVuZGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/NotaDeVendas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90YURlVmVuZGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCartoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2FydG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCartoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2FydG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCartoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2FydG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCartoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2FydG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCartoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2FydG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCheques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2hlcXVlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCheques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2hlcXVlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCheques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2hlcXVlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCheques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2hlcXVlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/PagamentoComCheques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvQ29tQ2hlcXVlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Pagamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Pagamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Pagamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Pagamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Pagamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/TipoDePagamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RlUGFnYW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/TipoDePagamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RlUGFnYW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/TipoDePagamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RlUGFnYW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/TipoDePagamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RlUGFnYW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/TipoDePagamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RlUGFnYW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Transportadoras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNwb3J0YWRvcmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Transportadoras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNwb3J0YWRvcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Transportadoras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNwb3J0YWRvcmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Transportadoras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNwb3J0YWRvcmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Transportadoras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNwb3J0YWRvcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Vendedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Vendedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Vendedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Vendedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Vendedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/slime/OneDrive/Área de Trabalho/Atividade_ayrlon_dotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bkebuwmujj
